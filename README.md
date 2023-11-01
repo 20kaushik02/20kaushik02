@@ -1,4 +1,4 @@
-[![Kaushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=20kaushik02&hide_rank=true&custom_title=Hello%20there!)](https://github.com/anuraghazra/github-readme-stats)
+[![Kaushik's GitHub stats](https://testing-stats.vercel.app/api?username=20kaushik02&hide_rank=true&custom_title=Hello%20there!)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Hello there!
 
