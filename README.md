@@ -1,6 +1,6 @@
 ## Hello there!
 
-- 🔭 Tinkering, gaming or sleeping.
-- 🌱 Love networks, web dev, Linux and AI!
+- 🔭 Overthinking, working, reading or sleeping.
+- 🌱 Love networking, distributed systems, databases and operating systems!
 - 📫 Reach me at: <a href="https://linkedin.com/in/kaushik-ravishankar/">LinkedIn</a>
-- 🌐 Oh? What's <a href="https://knravish.me">this?</a>
+- 🌐 idk ig i hv <a href="https://knravish.me">this</a>
